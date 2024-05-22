@@ -9,7 +9,7 @@ Its main purpose is for the bike riders who have difficulties to communicate wit
 ##### What will be the features?
 
 ##### Offline features:
-- Pillion rider communication module
+- Pillion rider communication module using BLe 5.0+
 - Multiple rider communication module using WiFi direct
 - Multiple rider communication module using Router
 - Multiple rider communication with mesh technology
